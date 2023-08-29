@@ -1,6 +1,6 @@
 # Fernando Ely 
 
-[![Twitter Badge](https://img.shields.io/badge/-@FernandoEly-1f5bf2?style=labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/FernandoEly)](https://twitter.com/FernandoEly) 
+[![Twitter Badge](https://img.shields.io/badge/-@FernandoEly-1f5bf2?style=labelColor=1f5bf2&logo=twitter&logoColor=white&link=https://twitter.com/FernandoEly)](https://twitter.com/FernandoEly) 
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Ely-1f5bf2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisfernandoely/)](https://www.linkedin.com/in/luisfernandoely/) 
 [![Gmail Badge](https://img.shields.io/badge/-luisely@gmail.com-1f5bf2?logo=Gmail&logoColor=white&link=mailto:luisely@gmail.com)](mailto:luisely@gmail.com)
 
